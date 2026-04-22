@@ -25,9 +25,9 @@ export default function Header() {
             }}
             className="fw-bold text-white"
           >
-            AB
+            TO
           </div>
-          <span>My <span style={{ color: '#f97316' }}>Blog</span></span>
+          <span>The Open <span style={{ color: '#f97316' }}>Blogs</span></span>
         </Link>
 
         {/* Toggle Button */}

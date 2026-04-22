@@ -77,7 +77,7 @@ export default function Contact() {
                   <Mail size={28} style={{ color: 'white' }} />
                 </div>
                 <h5 className="fw-900 mb-2" style={{ color: '#1a365d' }}>Email</h5>
-                <p className="text-muted">info@myblog.com</p>
+                <p className="text-muted">info@theopenblogs.com</p>
                 <a 
                   href="mailto:info@myblog.com"
                   className="btn btn-link p-0 fw-700"
@@ -104,7 +104,7 @@ export default function Contact() {
                   <Phone size={28} style={{ color: 'white' }} />
                 </div>
                 <h5 className="fw-900 mb-2" style={{ color: '#1a365d' }}>Phone</h5>
-                <p className="text-muted">+1 (234) 567-890</p>
+                <p className="text-muted">Coming Soon</p>
                 <a 
                   href="tel:+1234567890"
                   className="btn btn-link p-0 fw-700"

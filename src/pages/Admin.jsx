@@ -15,7 +15,7 @@ export default function Admin() {
       setError('');
       setPasscode('');
     } else {
-      setError('Incorrect passcode. Try: admin123');
+      setError('Incorrect passcode! Try again');
       setPasscode('');
     }
   };
@@ -86,7 +86,7 @@ export default function Admin() {
 
             {/* Hint */}
             <p className="text-center text-muted small mt-4" style={{ fontSize: '0.85rem' }}>
-              💡 Demo passcode: <strong>admin123</strong>
+              💡 Admins only: <strong>Not admin, get out! 😒</strong>
             </p>
           </div>
         </div>

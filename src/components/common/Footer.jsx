@@ -53,11 +53,11 @@ export default function Footer() {
             <h5>Contact Info</h5>
             <div className="d-flex align-items-center gap-2 mb-2">
               <Mail size={16} style={{ color: '#f97316', flexShrink: 0 }} />
-              <a href="mailto:info@myblog.com">info@myblog.com</a>
+              <a href="mailto:info@myblog.com">info@theopenblogs.com</a>
             </div>
             <div className="d-flex align-items-center gap-2 mb-2">
               <Phone size={16} style={{ color: '#f97316', flexShrink: 0 }} />
-              <a href="tel:+1234567890">+1 (234) 567-890</a>
+              <a href="tel:+1234567890">Coming Soon</a>
             </div>
             <div className="d-flex align-items-center gap-2">
               <MapPin size={16} style={{ color: '#f97316', flexShrink: 0 }} />

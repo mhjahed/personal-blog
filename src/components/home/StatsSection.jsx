@@ -2,10 +2,10 @@ import { BookOpen, Users, Zap, Globe } from 'lucide-react';
 
 export default function StatsSection() {
   const stats = [
-    { icon: BookOpen, label: 'Articles Published', value: '450+', emoji: '📚' },
-    { icon: Users, label: 'Active Readers', value: '12K+', emoji: '👥' },
-    { icon: Zap, label: 'Reading Time Saved', value: '500+ hrs', emoji: '⚡' },
-    { icon: Globe, label: 'Countries Reached', value: '85+', emoji: '🌍' },
+    { icon: BookOpen, label: 'Articles Published', value: '5+', emoji: '📚' },
+    { icon: Users, label: 'Active Readers', value: '500+', emoji: '👥' },
+    { icon: Zap, label: 'Reading Time Saved', value: '5+ hrs', emoji: '⚡' },
+    { icon: Globe, label: 'Countries Reached', value: '46+', emoji: '🌍' },
   ];
 
   return (

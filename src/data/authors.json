@@ -1,0 +1,40 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "bio": "Full-stack developer with 8+ years experience in modern web technologies. Passionate about teaching and mentoring.",
+      "specialization": "Web Development, React, Node.js",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "email": "sarah@myblog.com",
+      "social": {
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      },
+      "stats": {
+        "articles": 12,
+        "followers": 4250,
+        "engagement": "85%"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Marcus Johnson",
+      "bio": "UI/UX Designer specializing in digital products and user experience. Believes great design solves real problems.",
+      "specialization": "UI Design, UX Research, Branding",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "email": "marcus@myblog.com",
+      "social": {
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      },
+      "stats": {
+        "articles": 8,
+        "followers": 3180,
+        "engagement": "78%"
+      }
+    }
+  ]
+}

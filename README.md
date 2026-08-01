@@ -14,79 +14,72 @@
 
 A **production-ready blogging platform** designed with modern aesthetics inspired by Atlantic Technological University. This project showcases full-stack React development with advanced features including:
 
--  Content Management System
--  Advanced Search & Filtering
--  Multi-author Support
--  Comment System
--  Newsletter Integration
--  Admin Dashboard
--  Fully Responsive Design
--  Lightning-Fast Performance
+o	Content Management System, Advanced Search & Filtering, Multi-author Support, Comment System, Newsletter Integration, Admin Dashboard
+o	Fully Responsive Design
+o	Lightning-Fast Performance
 
 ---
 
 ##  Features
 
 ###  **Homepage**
-- Hero section with call-to-action
-- Featured articles showcase
-- Statistics and insights
-- Newsletter subscription form
-- Smooth animations and transitions
+o	Hero section with call-to-action
+o	Featured articles showcase
+o	Statistics and insights
+o	Newsletter subscription form
+o	Smooth animations and transitions
 
 ###  **Blog Management**
-- Advanced search functionality
-- Filter by category and tags
-- Sort by date, popularity, trending
-- Real-time filtering
-- Beautiful card layouts with images
-- Author profiles with avatars
+o	Advanced search functionality
+o	Filter by category and tags
+o	Sort by date, popularity, trending
+o	Real-time filtering
+o	Beautiful card layouts with images
+o	Author profiles with avatars
 
 ###  **Blog Pages**
-- Full-featured blog reader
-- Author information and bio
-- Reading time estimation
-- Social sharing buttons
-- Like and engagement tracking
-- Comments section
-- Related articles recommendations
+o	Full-featured blog reader
+o	Author information and bio
+o	Reading time estimation
+o	Social sharing buttons
+o	Like and engagement tracking
+o	Comments section
+o	Related articles recommendations
 
 ###  **Writer Profiles**
-- Detailed author pages
-- Statistics (articles, followers, engagement)
-- Social media links
-- Article history
-- Responsive profile cards
+o	Detailed author pages
+o	Statistics (articles, followers, engagement)
+o	Social media links
+o	Article history
+o	Responsive profile cards
 
 ###  **Contact & Newsletter**
-- Functional contact form
-- Newsletter signup
-- Social media links
-- Location information
-- Email integration ready
+o	Functional contact form
+o	Newsletter signup
+o	Social media links
+o	Location information
+o	Email integration ready
 
 ###  **Admin Dashboard**
-- Secure login system (passcode: `admin123`)
-- Create new blog posts
-- Edit existing content
-- Delete articles
-- Toggle trending/secret status
-- JSON export functionality
-- Full CRUD operations
+o	Secure login system (passcode: `admin123`)
+o	Create new blog posts
+o	Edit existing content
+o	Delete articles
+o	Toggle trending/secret status
+o	JSON export functionality
+o	Full CRUD operations
 
 ###  **Design**
-- ATU-inspired color scheme
-- Professional typography
-- Smooth animations
-- Dark navy primary color (#1a365d)
-- Orange accent color (#f97316)
-- Premium shadows and effects
-- Mobile-first responsive design
+o	Professional typography
+o	Smooth animations
+o	Dark navy primary color (#1a365d)
+o	Orange accent color (#f97316)
+o	Premium shadows and effects
+o	Mobile-first responsive design
 
 ---
 
 ##  Live Demo
-
 **Website:** [https://personal-blog.jah267478.workers.dev/](https://personal-blog.jah267478.workers.dev/)
 
 **GitHub:** [https://github.com/mhjahed/personal-blog](https://github.com/mhjahed/personal-blog)
@@ -96,23 +89,23 @@ A **production-ready blogging platform** designed with modern aesthetics inspire
 ##  Tech Stack
 
 ### **Frontend**
-- **React 18** - UI library
-- **Vite** - Build tool & dev server
-- **React Router** - Page routing
-- **Bootstrap 5** - CSS framework
-- **Framer Motion** - Animations
+o	**React 18** - UI library
+o	**Vite** - Build tool & dev server
+o	**React Router** - Page routing
+o	**Bootstrap 5** - CSS framework
+o	**Framer Motion** - Animations
 
 ### **State Management**
-- **Zustand** - Lightweight state management
+o	**Zustand** - Lightweight state management
 
 ### **UI/UX**
-- **Lucide React** - Icon library
-- **DM Sans** - Primary font
-- **Poppins** - Heading font
+o	**Lucide React** - Icon library
+o	**DM Sans** - Primary font
+o	**Poppins** - Heading font
 
 ### **Deployment**
-- **Cloudflare Pages** - Hosting & CDN
-- **GitHub** - Version control
+o	**Cloudflare Pages** - Hosting & CDN
+o	**GitHub** - Version control
 
 ---
 
@@ -122,9 +115,9 @@ A **production-ready blogging platform** designed with modern aesthetics inspire
 ##  Installation
 
 ### **Prerequisites**
-- Node.js 16+ 
-- npm or yarn
-- Git
+o	Node.js 16+ 
+o	npm or yarn
+o	Git
 
 ### **Step 1: Clone Repository**
 
@@ -335,52 +328,52 @@ JavaScript
 }
 
 Features in Detail
-- Search System
-- Real-time filtering
-- Search by title, tags, author
-- Instant results
-- Highlight matches
-- Filtering
-- Filter by category
-- Filter by tags
-- Multiple tag selection
-- Clear all filters button
-- Sorting
-- Newest first
-- Oldest first
-- Most popular
-- Trending
-- Comments
-- Add comments to articles
-- User information
-- Like comments
-- Display date
-- Admin Panel
-- View all blogs
-- Create new article
-- Edit existing article
-- Delete article
-- Toggle secret status
-- Download JSON backup
+o	Search System
+o	Real-time filtering
+o	Search by title, tags, author
+o	Instant results
+o	Highlight matches
+o	Filtering
+o	Filter by category
+o	Filter by tags
+o	Multiple tag selection
+o	Clear all filters button
+o	Sorting
+o	Newest first
+o	Oldest first
+o	Most popular
+o	Trending
+o	Comments
+o	Add comments to articles
+o	User information
+o	Like comments
+o	Display date
+o	Admin Panel
+o	View all blogs
+o	Create new article
+o	Edit existing article
+o	Delete article
+o	Toggle secret status
+o	Download JSON backup
 
 Security
-- Admin passcode protection
-- Input validation
-- No sensitive data in code
-- Safe environment variables
-- HTTPS on deployment
-- Future Enhancements
+o	Admin passcode protection
+o	Input validation
+o	No sensitive data in code
+o	Safe environment variables
+o	HTTPS on deployment
+o	Future Enhancements
 
  Backend API integration
- - Database (MongoDB/PostgreSQL)
- - User authentication
- - Comment moderation
- - Email notifications
- - Search analytics
- - Multi-language support
- - Dark mode toggle
- - Social media integration
- - Advanced SEO features
+o	Database (MongoDB/PostgreSQL)
+o	User authentication
+o	Comment moderation
+o	Email notifications
+o	Search analytics
+o	Multi-language support
+o	Dark mode toggle
+o	Social media integration
+o	Advanced SEO features
 
 Contributing
 Contributions are welcome!
